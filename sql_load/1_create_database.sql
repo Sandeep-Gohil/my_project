@@ -1,0 +1,5 @@
+--Creating_databsase_for_my_capstone_project
+--creating_database_to_have_all_the_data_needed_for_analysis
+
+
+CREATE DATABASE my_project;
