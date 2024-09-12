@@ -61,7 +61,7 @@ The majority of these roles are remote, showing a significant shift toward flexi
 
 Below is the visual to lookout differents roles with highpay salaries.
 
-![Top Paying Jobs](assets/top_paying_roles.pn)
+![Top Paying Jobs](assets/top_paying_roles.png)
 
 
 ### 2 Top Paying Skills
