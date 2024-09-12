@@ -61,7 +61,7 @@ The majority of these roles are remote, showing a significant shift toward flexi
 
 Below is the visual to lookout differents roles with highpay salaries.
 
-![Top Paying Jobs](assets/top_paying_roles.png)
+![Top Paying Jobs](assets/top_paying_roles.pn)
 
 
 ### 2 Top Paying Skills
@@ -109,7 +109,7 @@ Here's the column chart to illustrate the top skills for the highest paying data
 
 
 
-![Skill Count for Top Paying Data Analyst Jobs in 2023]()
+![Skill Count for Top Paying Data Analyst Jobs in 2023](assets/skill_count.png)
 *These insights show that SQL, Python, and 
 Tableau are highly sought-after skills for data analyst roles,indicating their importance in data analysis tasks and visualization.*
 
